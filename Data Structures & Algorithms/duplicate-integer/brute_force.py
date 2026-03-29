@@ -6,3 +6,6 @@ class Solution:
                 if nums[i] ==  nums[j]:
                     return True
         return False
+
+# Time complexity : O(n^2)
+# Space complexity : O(1)

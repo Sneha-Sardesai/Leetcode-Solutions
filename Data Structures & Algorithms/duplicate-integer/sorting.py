@@ -6,3 +6,5 @@ class Solution:
             if nums[i] == nums[i+1] :
                 return True
         return False
+# Time Complexity : O(n)
+# Space Complexity : O(1)

@@ -27,3 +27,6 @@ class Solution:
                     used[j] = True
             result.append(rows)
         return result
+
+# Time Complexity : O(n^2 * k)
+# Space Complexity : O(n+k)
